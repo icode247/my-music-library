@@ -8,7 +8,7 @@ To get started with this project, you will need to have Node.js and Angular CLI 
 
 Clone the repository:
 
-    git clone https://github.com/icode247/routing_with_angular/
+    git clone https://github.com/icode247/my-music-library
     
 Install dependencies:
 
